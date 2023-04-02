@@ -639,6 +639,11 @@ button {
   background-color: #fcc10e;
 }
 
+#fab {
+  height: 70px;
+  width: 110px;
+}
+
 /** end We Do section **/
 
 /** tech section **/
